@@ -1,7 +1,7 @@
 # Somebody's Random Rooms
 *A fun, small archive of my life*
 
-[website](https://docs.google.com/document/d/1lXw1zjKEE-4CP8J6YppBMz239rkWmCdVzcGXyEqNgyU/edit?tab=t.0)
+<a href="https://s0phl.github.io/somebodys-random-rooms/" target="_blank">website</a>
 
 ## Running Locally
 
