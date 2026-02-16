@@ -2,88 +2,88 @@
 	"frieren": {
 		"title": "Sousou no Frieren",
 		"screenshots": [
-			{"src": "/assets/highlights/screenshots/frieren-ep26.png", "caption": "Episode 26"}
+			{"src": "assets/highlights/screenshots/frieren-ep26.png", "caption": "Episode 26"}
 		],
 		"clips": [
-			{"src": "/assets/highlights/clips/frieren-ep6.mp4", "caption": "Episode 6"},
-			{"src": "/assets/highlights/clips/frieren-ep17.mp4", "caption": "Episode 17"}
+			{"src": "assets/highlights/clips/frieren-ep6.mp4", "caption": "Episode 6"},
+			{"src": "assets/highlights/clips/frieren-ep17.mp4", "caption": "Episode 17"}
 		]
 	},
 	"lustrous": {
 		"title": "Land of the Lustrous",
 		"screenshots": [
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch1.webp", "caption": "Chapter 1"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch2.webp", "caption": "Chapter 2"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch2-2.webp", "caption": "Chapter 2"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch3.webp", "caption": "Chapter 3"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch19.webp", "caption": "Chapter 19"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch23.webp", "caption": "Chapter 23"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch25.webp", "caption": "Chapter 25"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch29.webp", "caption": "Chapter 29"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch30.webp", "caption": "Chapter 30"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch31.webp", "caption": "Chapter 31"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch32.webp", "caption": "Chapter 32"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch33.webp", "caption": "Chapter 33"},
-			{"pair": [{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch35-2.webp"}, {"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch35.webp"}], "caption": "Chapter 35"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch36.webp", "caption": "Chapter 36"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch47.webp", "caption": "Chapter 47"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch47-2.webp", "caption": "Chapter 47"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch52.webp", "caption": "Chapter 52"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch54.webp", "caption": "Chapter 54"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch60.webp", "caption": "Chapter 60"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch65.webp", "caption": "Chapter 65"},
-			{"pair": [{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch76-2.webp"}, {"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch76.webp"}], "caption": "Chapter 76"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch78.webp", "caption": "Chapter 78"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch79.webp", "caption": "Chapter 79"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch79-2.webp", "caption": "Chapter 79"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch80.webp", "caption": "Chapter 80"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch82.webp", "caption": "Chapter 82"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch83-4.webp", "caption": "Chapter 83"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch84.webp", "caption": "Chapter 84"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch84-2.webp", "caption": "Chapter 84"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85.webp", "caption": "Chapter 85"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85-2.webp", "caption": "Chapter 85"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85-3.webp", "caption": "Chapter 85"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86.webp", "caption": "Chapter 86"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-2.webp", "caption": "Chapter 86"},
-			{"pair": [{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-4.webp"}, {"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-3.webp"}], "caption": "Chapter 86"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-5.webp", "caption": "Chapter 86"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87.webp", "caption": "Chapter 87"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87-2.webp", "caption": "Chapter 87"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87-3.webp", "caption": "Chapter 87"},
-			{"pair": [{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch88-2.webp"}, {"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch88.webp"}], "caption": "Chapter 88"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch90-3.webp", "caption": "Chapter 90"},
-			{"pair": [{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91-2.webp"}, {"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91.webp"}], "caption": "Chapter 91"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91-3.webp", "caption": "Chapter 91"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch92-2.webp", "caption": "Chapter 92"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch93.webp", "caption": "Chapter 93"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch93-2.webp", "caption": "Chapter 93"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch94.webp", "caption": "Chapter 94"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch95.webp", "caption": "Chapter 95"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch96.webp", "caption": "Chapter 96"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch97.webp", "caption": "Chapter 97"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch108.webp", "caption": "Chapter 108"},
-			{"src": "/assets/highlights/screenshots/land-of-the-lustrous/hiatus.webp", "caption": "and thus began her years long hiatus"}
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch1.webp", "caption": "Chapter 1"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch2.webp", "caption": "Chapter 2"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch2-2.webp", "caption": "Chapter 2"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch3.webp", "caption": "Chapter 3"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch19.webp", "caption": "Chapter 19"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch23.webp", "caption": "Chapter 23"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch25.webp", "caption": "Chapter 25"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch29.webp", "caption": "Chapter 29"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch30.webp", "caption": "Chapter 30"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch31.webp", "caption": "Chapter 31"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch32.webp", "caption": "Chapter 32"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch33.webp", "caption": "Chapter 33"},
+			{"pair": [{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch35-2.webp"}, {"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch35.webp"}], "caption": "Chapter 35"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch36.webp", "caption": "Chapter 36"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch47.webp", "caption": "Chapter 47"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch47-2.webp", "caption": "Chapter 47"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch52.webp", "caption": "Chapter 52"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch54.webp", "caption": "Chapter 54"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch60.webp", "caption": "Chapter 60"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch65.webp", "caption": "Chapter 65"},
+			{"pair": [{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch76-2.webp"}, {"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch76.webp"}], "caption": "Chapter 76"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch78.webp", "caption": "Chapter 78"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch79.webp", "caption": "Chapter 79"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch79-2.webp", "caption": "Chapter 79"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch80.webp", "caption": "Chapter 80"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch82.webp", "caption": "Chapter 82"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch83-4.webp", "caption": "Chapter 83"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch84.webp", "caption": "Chapter 84"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch84-2.webp", "caption": "Chapter 84"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85.webp", "caption": "Chapter 85"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85-2.webp", "caption": "Chapter 85"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch85-3.webp", "caption": "Chapter 85"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86.webp", "caption": "Chapter 86"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-2.webp", "caption": "Chapter 86"},
+			{"pair": [{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-4.webp"}, {"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-3.webp"}], "caption": "Chapter 86"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch86-5.webp", "caption": "Chapter 86"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87.webp", "caption": "Chapter 87"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87-2.webp", "caption": "Chapter 87"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch87-3.webp", "caption": "Chapter 87"},
+			{"pair": [{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch88-2.webp"}, {"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch88.webp"}], "caption": "Chapter 88"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch90-3.webp", "caption": "Chapter 90"},
+			{"pair": [{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91-2.webp"}, {"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91.webp"}], "caption": "Chapter 91"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch91-3.webp", "caption": "Chapter 91"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch92-2.webp", "caption": "Chapter 92"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch93.webp", "caption": "Chapter 93"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch93-2.webp", "caption": "Chapter 93"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch94.webp", "caption": "Chapter 94"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch95.webp", "caption": "Chapter 95"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch96.webp", "caption": "Chapter 96"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch97.webp", "caption": "Chapter 97"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/land-of-the-lustrous-ch108.webp", "caption": "Chapter 108"},
+			{"src": "assets/highlights/screenshots/land-of-the-lustrous/hiatus.webp", "caption": "and thus began her years long hiatus"}
 		]
 	},
 	"yona-of-the-dawn": {
 		"title": "Yona of the Dawn",
 		"screenshots": [
-			{"pair": [{"src": "/assets/highlights/screenshots/yona-of-the-dawn-2.PNG"}, {"src": "/assets/highlights/screenshots/yona-of-the-dawn-1.PNG"}], "caption": "Chapter 266"}
+			{"pair": [{"src": "assets/highlights/screenshots/yona-of-the-dawn-2.PNG"}, {"src": "assets/highlights/screenshots/yona-of-the-dawn-1.PNG"}], "caption": "Chapter 266"}
 		]
 	},
 	"dandadan": {
 		"title": "DanDaDan",
 		"screenshots": [
-			{"src": "/assets/highlights/screenshots/dandadan-ch18-1.png", "caption": "Chapter 18"},
-			{"src": "/assets/highlights/screenshots/dandadan-ch18-2.png", "caption": "Chapter 18"},
-			{"src": "/assets/highlights/screenshots/dandadan-ch27.png", "caption": "Chapter 27"}
+			{"src": "assets/highlights/screenshots/dandadan-ch18-1.png", "caption": "Chapter 18"},
+			{"src": "assets/highlights/screenshots/dandadan-ch18-2.png", "caption": "Chapter 18"},
+			{"src": "assets/highlights/screenshots/dandadan-ch27.png", "caption": "Chapter 27"}
 		]
 	},
 	"misc": {
 		"title": "Misc.",
 		"screenshots": [
-			{"src": "/assets/highlights/screenshots/misc/watanare-ch63.webp", "caption": "Watanare Chapter 63"}
+			{"src": "assets/highlights/screenshots/misc/watanare-ch63.webp", "caption": "Watanare Chapter 63"}
 		]
 	}
 }

@@ -27,26 +27,26 @@ class GameScene extends Phaser.Scene {
   }
 
   preload() {
-    this.load.image("bg", "/assets/backgrounds/bg.png");
-    this.load.image("bg-2", "/assets/backgrounds/bg-2.png");
-    this.load.image("player", "/assets/sprites/player.png");
-    this.load.image("bookshelf", "/assets/sprites/bookshelf.png");
-    this.load.image("board", "/assets/sprites/board.png");
-    this.load.image("desk", "/assets/sprites/desk.png");
-    this.load.image("computer-1", "/assets/sprites/computer-1.png");
-    this.load.image("computer-2", "/assets/sprites/computer-2.png");
-    this.load.image("easel", "/assets/sprites/easel.png");
-    this.load.image("info", "/assets/sprites/info.png");
+    this.load.image("bg", "assets/backgrounds/bg.png");
+    this.load.image("bg-2", "assets/backgrounds/bg-2.png");
+    this.load.image("player", "assets/sprites/player.png");
+    this.load.image("bookshelf", "assets/sprites/bookshelf.png");
+    this.load.image("board", "assets/sprites/board.png");
+    this.load.image("desk", "assets/sprites/desk.png");
+    this.load.image("computer-1", "assets/sprites/computer-1.png");
+    this.load.image("computer-2", "assets/sprites/computer-2.png");
+    this.load.image("easel", "assets/sprites/easel.png");
+    this.load.image("info", "assets/sprites/info.png");
 
-    this.load.image("fridge", "/assets/sprites/fridge.png");
-    this.load.image("oven", "/assets/sprites/oven.png");
-    this.load.image("cupboard", "/assets/sprites/cupboard.png");
-    this.load.image("cupboard-long", "/assets/sprites/cupboard-long.png");
-    this.load.image("cupboard-sink", "/assets/sprites/cupboard-sink.png");
+    this.load.image("fridge", "assets/sprites/fridge.png");
+    this.load.image("oven", "assets/sprites/oven.png");
+    this.load.image("cupboard", "assets/sprites/cupboard.png");
+    this.load.image("cupboard-long", "assets/sprites/cupboard-long.png");
+    this.load.image("cupboard-sink", "assets/sprites/cupboard-sink.png");
 
-    this.load.image("indicator", "/assets/sprites/indicator.png");
+    this.load.image("indicator", "assets/sprites/indicator.png");
 
-    this.load.audio("bgMusic", "/assets/sounds/Where-the-Blue-Moon-Weed-Grows.mp3"); 
+    this.load.audio("bgMusic", "assets/sounds/Where-the-Blue-Moon-Weed-Grows.mp3"); 
   }
 
   createStaticObject(object, x, y, scale) {

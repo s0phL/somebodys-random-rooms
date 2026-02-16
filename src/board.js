@@ -46,7 +46,7 @@ function renderBinders() {
         binder.className = "binder";
 
         binder.innerHTML = `
-            <img src="/assets/sprites/binder.png" alt="${manga.title} binder">
+            <img src="assets/sprites/binder.png" alt="${manga.title} binder">
             <span class="binder-title">${manga.title}</span>
         `;
 
