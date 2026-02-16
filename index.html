@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Somebody's Random Rooms</title>
+  </head>
+  <body>
+    <header>
+      <p>Somebody's Random Rooms</p>
+    </header>
+    <main>
+      <canvas id="gameCanvas"></canvas>
+
+      <!-- BOOKSHELF WINDOW -->
+      <div id="bookshelf-popup" class="hidden window">
+        <div class="title-bar">
+          <span class="title">theyuricorner.exe</span>
+          <div class="window-controls">
+            <button id="bookshelf-minimize-btn">—</button>
+            <button>□</button>
+            <button id="bookshelf-close-btn">✕</button>
+          </div>
+        </div>
+
+        <div class="window-content">
+          <h1 id="bookshelf-title">My Top Picks</h1>
+          <div class="bookshelf-gallery" id="book-gallery"></div>
+
+          <div class="window-footer">
+            <button id="more-books-btn">More Books</button>
+          </div>
+          
+          <!--BOOK DETAIL POPUP-->
+          <div class="overlay" id="book-overlay">
+            <button class="close-btn" id="book-popup-close-btn">✕</button>
+            <div class="popup">
+
+              <div class="popup-content">
+                <img class="main-image" id="bookImage" />
+                
+                <div class="details">
+                  <div class="island">
+                    <h2 id="bookTitle"></h2>
+                    <p id="bookDescription"></p>
+                  </div>
+                  <div class="island" style="margin-top: -10px;">
+                    <h3>Review</h3>
+                    <div class="reviews" id="bookReviews"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="carousel" id="book-carousel"></div>
+           
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- BULLETIN BOARD WINDOW -->
+      <div id="board-popup" class="hidden window">
+        <div class="title-bar">
+          <span class="title">bulletinboard.exe</span>
+          <div class="window-controls">
+            <button id="board-minimize-btn">—</button>
+            <button>□</button>
+            <button id="board-close-btn">✕</button>
+          </div>
+        </div>
+
+        <div class="window-content">
+          <h1>Manga / Anime Screenshots & Clips</h1>
+          <div class="binder-grid" id="binder-grid"></div>
+        </div>
+
+        <div class="window-footer"></div>
+
+      </div>
+
+      <!-- GALLERY WINDOW -->
+      <div id="highlights-gallery-popup" class="hidden window">
+        <div class="title-bar">
+          <span class="title" id="gallery-title">gallery.exe</span>
+          <div class="window-controls">
+            <button id="gallery-close-btn">✕</button>
+          </div>
+        </div>
+
+        <div class="window-content">
+          <!-- <h1 id="gallery-title"></h1> -->
+          <div class="screenshot-grid" id="screenshot-grid"></div>
+        </div>
+      </div>
+
+      <!-- POLAROID POPUP -->
+      <div class="overlay" id="polaroid-overlay">
+        <div class="polaroid">
+          <button class="close-btn" id="polaroid-close-btn">✕</button>
+          
+          <div id="fullscreen-container">
+            <button id="fullscreen-btn">⛶</button>
+          </div>
+
+          <div id="polaroid-container">
+            <div id="polaroid-media-frame">
+              <img id="polaroid-image" />
+              <video id="polaroid-video"></video>
+            </div>
+            <p id="polaroid-caption"></p>
+          </div>
+
+          <div class="carousel" id="polaroid-carousel"></div>
+        </div>
+      </div>
+
+      <!-- INFO WINDOW -->
+      <div id="info-popup" class="hidden window">
+        <div class="title-bar">
+          <span class="title">info.exe</span>
+          <div class="window-controls">
+            <button id="info-minimize-btn">—</button>
+            <button>□</button>
+            <button id="info-close-btn">✕</button>
+          </div>
+        </div>
+
+        <div class="window-content">
+          <div class="info-content">
+            <h1>About / Help</h1>
+
+            <p class="intro">
+              Hi! Welcome to my page. Thanks for checking it out. <br>
+              This is mainly to serve as a fun archive for myself.
+            </p>
+
+            <div class="info-section">
+              <h2>Controls</h2>
+              <ul>
+                <li><kbd>WASD</kbd> or <kbd aria-label="Arrow Keys">↑ ↓ ← →</kbd> — Move</li>
+                <li><kbd>Enter</kbd> — Inspect / Interact</li>
+                <li><kbd>Esc</kbd> — Close popups</li>
+              </ul>
+            </div>
+
+            <div class="info-section">
+              <h2>Tips</h2>
+              <ul>
+                <li>Get close to objects to interact with them (an arrow will appear)</li>
+                <li>Mouse clicking is also fair game</li>
+                <li>Try stepping through the border — you might discover a new room!</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="info-footer">
+          <span>v0.0.1</span>
+          <span>Somebody’s Random Rooms</span>
+        </div>
+
+        <div class="window-footer"></div>
+
+      </div>
+      
+    </main>
+    <footer>
+      <p>Created by somebody</p>
+    </footer>
+    <script type="module" src="/client/src/main.js"></script>
+    <script type="module" src="/client/src/book.js"></script>
+    <script type="module" src="/client/src/board.js"></script>
+  </body>
+</html>
